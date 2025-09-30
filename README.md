@@ -3,7 +3,7 @@
 Welcome to the official repository for **Computer Graphics & Visualization (BCA 5th Semester)**.
 This repository will contain all **practical codes, assignments, and exercises** for the course.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##  Repository Structure
 
@@ -26,7 +26,7 @@ BCA-5thSem-ComputerGraphics-Practicals/
 └── README.md
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Rules and Instructions
 
@@ -57,7 +57,7 @@ BCA-5thSem-ComputerGraphics-Practicals/
 
 8. Use `git commit -m "Your message"` with a clear message when updating your work.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Getting Started with Git
 
@@ -75,11 +75,11 @@ BCA-5thSem-ComputerGraphics-Practicals/
   git push origin main
   ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##  Note
 
 This repository is for **academic learning purposes only**.
 All students are encouraged to contribute responsibly and maintain discipline while using Git.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
